@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.0c750671.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/\u6253\u5305\u6784\u5EFA/Turbopack.md"}'),o={name:"notes/\u6253\u5305\u6784\u5EFA/Turbopack.md"};function r(c,s,n,p,_,d){return a(),t("div")}const f=e(o,[["render",r]]);export{m as __pageData,f as default};

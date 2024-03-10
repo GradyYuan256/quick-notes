@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a}from"./app.0c750671.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/\u6253\u5305\u6784\u5EFA/Tuborepo.md"}'),o={name:"notes/\u6253\u5305\u6784\u5EFA/Tuborepo.md"},n=a("",2),h=[n];function s(p,_,c,i,l,u){return t(),r("div",null,h)}const m=e(o,[["render",s]]);export{f as __pageData,m as default};

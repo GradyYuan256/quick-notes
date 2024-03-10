@@ -1,0 +1,1 @@
+import{_ as r,c as e,o as a,a as t}from"./app.0c750671.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/JavaScript/ECMA \u89C4\u8303.md"}'),n={name:"notes/JavaScript/ECMA \u89C4\u8303.md"},o=t("",8),h=[o];function c(p,i,l,_,s,f){return a(),e("div",null,h)}const b=r(n,[["render",c]]);export{m as __pageData,b as default};
